@@ -1,0 +1,8 @@
+simulation_duration=60
+num_intersections=4
+num_roads=4
+max_vehicles=100
+max_emergency=5
+vehicle_gen_interval=500000
+emergency_gen_interval=5000000
+scheduling_policy=0
